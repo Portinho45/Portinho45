@@ -1,5 +1,5 @@
 # Hi! 💻
-I'm Jose, systems engineer student. Welcome to my GitHub profile!
+I'm Jose, a systems engineer student. Welcome to my GitHub profile!
 
 ## About Me
 - 🎓 I’m currently learning React.

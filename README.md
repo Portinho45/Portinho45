@@ -1,11 +1,22 @@
-### Hola! 👋
-- 🌱 I’m currently learning React.
-- 📫 How to reach me: xtrevator@gmail.com
+# Hi! 💻
+I'm Jose, systems engineer student. Welcome to my GitHub profile!
 
-<code><img height="30" src="https://raw.githubusercontent.com/4u6u570/resume/6b8b68dd999f4b2015d77a90634f22e435e2fafa/assets/font-awesome/svgs/brands/js.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/4u6u570/resume/6b8b68dd999f4b2015d77a90634f22e435e2fafa/assets/font-awesome/svgs/brands/html5.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/4u6u570/resume/6b8b68dd999f4b2015d77a90634f22e435e2fafa/assets/font-awesome/svgs/brands/css3-alt.svg"></code>
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="14" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M185.7 268.1h76.2l-38.1-91.6-38.1 91.6zM223.8 32L16 106.4l31.8 275.7 176 97.9 176-97.9 31.8-275.7zM354 373.8h-48.6l-26.2-65.4H168.6l-26.2 65.4H93.7L223.8 81.5z"/></svg>
+## About Me
+- 🎓 I’m currently learning React.
+- 📫 How to reach me: xtrevator@gmail.com
+- 🌱 I'm constantly learning and expand my skills.
+  
+## Languages and Tools
+<p align="left">
+  <img alt="c++" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="c++" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img alt="html" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+  <img alt="css" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+  <img alt="js" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img alt="ts" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  <img alt="angular" width="40px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/>
+  <img alt="python" width="40px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
+</p>
 <!--
 *4u6u570/4u6u570* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

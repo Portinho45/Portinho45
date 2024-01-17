@@ -10,6 +10,7 @@ I'm Jose, a systems engineer student. Welcome to my GitHub profile!
 <p align="left">
   <img alt="c++" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   <img alt="c++" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+</p>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452 520">
   <path fill="#e34f26" d="M41 460L0 0h451l-41 460-185 52" />
   <path fill="#ef652a" d="M226 472l149-41 35-394H226" />
@@ -22,6 +23,7 @@ I'm Jose, a systems engineer student. Welcome to my GitHub profile!
   <path fill="#ecedee" d="M226 208H94l5 57h127zm0-114H84l5 56h137zm0 261l-124-33 7 60 117 32z"/>
   <path fill="#fff" d="M226 265h69l-7 73-62 17v59l115-32 26-288H226v56h80l-6 58h-74z"/>
 </svg>
+<p align="left">
   <img alt="js" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   <img alt="ts" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
   <img alt="angular" width="40px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/>

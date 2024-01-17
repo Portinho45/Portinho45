@@ -8,7 +8,6 @@ I'm Jose, a systems engineer student. Welcome to my GitHub profile!
   
 ## Languages and Tools
 <p align="left">
-  <img alt="c++" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
   <img alt="c++" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img alt="c++" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img alt="c++" width="40px" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
